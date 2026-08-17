@@ -5,17 +5,12 @@
     "name": "LadyDev",
     "email": "shavonharrisdev@gmail.com"
   },
-  "metadata": {
-    "pluginRoot": "./plugins"
-  },
   "plugins": [
     {
       "name": "ladydev-agents",
-      "source": "ladydev-agents",
+      "source": "./plugins/ladydev-agents",
       "description": "Khadijah (chief of staff) plus nine directors covering product, written content, video and audio, clients, education, operations, research, insight, and shared memory.",
-      "version": "0.4.0",
-      "category": "productivity",
-      "tags": ["agents", "chief-of-staff", "content", "operations"],
+      "version": "0.4.1",
       "author": {
         "name": "LadyDev"
       }

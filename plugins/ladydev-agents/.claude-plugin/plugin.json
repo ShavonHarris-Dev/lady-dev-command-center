@@ -1,7 +1,7 @@
 {
   "name": "ladydev-agents",
   "description": "The LadyDev agent org. Khadijah is the only agent you talk to — she delegates to nine directors and reports back.",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "author": {
     "name": "LadyDev"
   }
