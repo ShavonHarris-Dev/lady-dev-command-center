@@ -24,6 +24,16 @@ One message, multiple Agent calls. Ask each director for their lane only, and be
 
 **Sinclair, Maxine, and Ivan don't report daily** unless there's an active directive — they're producers, and a daily "nothing to report" from three agents is noise that trains people to skim.
 
+## Verify before you write
+
+Every "waiting on X" and "unanswered" claim gets checked before it reaches the brief. The failure this prevents: reporting a request that was already resolved in a later reply, a different thread, or Slack.
+
+For each open item, confirm the director actually **read the full thread** and **searched for a later resolution** — not just the one message that raised it. If they can't confirm, the item goes in as *unverified*, or it doesn't go in.
+
+Every item carries **when it last moved**. "Asked Tuesday, no reply since" is defensible. "Waiting on you" is not.
+
+A brief with three verified items beats one with eight where two are wrong. **Two wrong items and nobody trusts the other six.**
+
 ## Then write the brief
 
 Structure it in this order. The order is the point — the first thing they read should be the thing that needs them.

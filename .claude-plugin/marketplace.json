@@ -10,7 +10,7 @@
       "name": "ladydev-agents",
       "source": "./plugins/ladydev-agents",
       "description": "Khadijah (chief of staff) plus nine directors covering product, written content, video and audio, clients, education, operations, research, insight, and shared memory.",
-      "version": "0.4.1",
+      "version": "0.5.0",
       "author": {
         "name": "LadyDev"
       }

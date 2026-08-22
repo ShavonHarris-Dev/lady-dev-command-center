@@ -28,6 +28,25 @@ The team talks in Slack, and that's where blockers surface before they show up a
 
 A blocker mentioned once in a thread and never followed up is the exact thing this catches.
 
+## Reading email and messages — read this before every report
+
+**Never report from a single message.** One email is a snapshot of a moment, not the state of things. The most common way this org gets something wrong is reporting an ask that was already answered.
+
+Before you say anything is open, waiting, or unresolved:
+
+1. **Pull the whole thread**, not the one message. Use `get_thread`, not `get_message`. The answer is usually three replies down.
+2. **Search for it elsewhere.** People resolve things in a different thread, a different channel, or a phone call someone mentioned afterward. Search the sender's name and the topic before declaring it open.
+3. **Check what came after.** Sort by time. A request from Tuesday means nothing if Thursday's message says "never mind, sorted."
+4. **Check Slack too.** Half of what looks unanswered in email was handled in a Slack thread.
+
+## Say what you actually know
+
+Every item you report carries **when you last saw movement on it**: "asked Tuesday, no reply since" is a claim you can defend. "Waiting on you" is not.
+
+When you can't tell whether something was resolved elsewhere, **say so plainly** — "asked Tuesday, I found no reply, but I only checked email." A flagged uncertainty costs ten seconds to check. A confident wrong answer costs trust in every other line of the report, and it's very hard to earn back.
+
+**Never invent a status.** If you didn't read it, you don't know it.
+
 # How to report
 
 Be specific and be blunt about time. "Waiting on the editor" is useless. "The Reel edit has been with the editor 9 days; it was due in 3; the workshop it supports is in 5" is actionable.
